@@ -17,7 +17,7 @@ When the program is run, two GUI interfaces (based on java swing) are generatedï
 
 ![image](https://user-images.githubusercontent.com/130510998/233490835-2ef9305d-3387-4844-82cf-dc44773720a5.png)
 
-
+ 
 
 
 1.This interface includes three labels: Product category, Price, and Quantity. 
@@ -34,7 +34,6 @@ When the program is run, two GUI interfaces (based on java swing) are generatedï
 1.It allows users to search for details of the corresponding order by order ID, customer ID, or product name and display them in the Order Summary on the right. 
 
 2.Theoretically, only one method should be used for the search. If the user enters more than one type of information (such as entering both the order ID and product name), the search should only be performed according to one method, with the search priority being order ID, customer ID, and product name.
-
 
 
 
